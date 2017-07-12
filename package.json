@@ -24,7 +24,7 @@
     "node-twitter": "^0.5.3"
   },
   "engines": {
-    "node": "8.1.x",
-    "npm": "5.0.x"
+    "node": "4.8.x",
+    "npm": "2.15.x"
   }
 }
